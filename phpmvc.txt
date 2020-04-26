@@ -2,3 +2,4 @@ PHP-MVC
 -Minggu ini saya akan membuat php MVC
 -pengelolaan data siswa
 -setelah jadi akan di masukan ke codeigniter
+-sambungkan ke bootstrap juga
